@@ -23,7 +23,7 @@ Firstly, follow the steps to create a virtualenv for your respective OS system (
 ```console
 pip install -r requirements.txt
 ```
-It is recommended to use Python version => 3.7.
+It is recommended to use Python version 3.9 or 3.10 to avoid package installation conflicts.
 
 
 3. Open and run `pHRobot_Operation.ipynb`
