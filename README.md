@@ -13,7 +13,7 @@ Please find a bill of materials and assembly guide enclosed with the paper's ESI
 1. Clone the repo
 
 ```console
-git clone https://github.com/sustainable-processes/ACJC.git
+git clone https://github.com/sustainable-processes/pHbot.git
 ```
 
 2. Create a virtual environment and install the dependencies
