@@ -69,5 +69,5 @@ Submit an issue or email [Aniket Chitre](ac2349@cam.ac.uk) for any software-rela
 
 If you find this project useful, we encourage you to: 
 * Star this repository &#11088;
-* Cite our paper (_in preparation_)
+* Cite our paper (https://doi.org/10.26434/chemrxiv-2023-c46mv)
 
