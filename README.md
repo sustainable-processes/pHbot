@@ -1,6 +1,6 @@
 # pHbot: Self-Driven Robot for pH Adjustment of Viscous Formulations *via* Physics-informed-ML
 
-We have developed the first-of-its-kind pH robot capable of small-scale batch titrations for viscous liquid formulations. The fully autonomous, closed-loop pH adjustment is driven by a "physics-informed" ML-driven titration algorithm. The work is detailed in an article undergoing publication and this GitHub repository is part of the electronic supplementary information (ESI) released with the project. 
+We have developed the first-of-its-kind pH robot capable of small-scale batch titrations for viscous liquid formulations. The fully autonomous, closed-loop pH adjustment is driven by a "physics-informed" ML-driven titration algorithm. The work is detailed [here](doi.org/10.1002/cmtd.202300043) and this GitHub repository is part of the electronic supplementary information (ESI) released with the project. 
 
 It should be noted that the pH robot can titrate a wide variety of systems, including aqueous solutions, but the focus has been presented on viscous formulations as the robot's design, along with mixing and cleaning protocols, were optimised to overcome the engineering challenge of titrating viscous systems. Furthermore, the titration algorithm can generally work with the use of any strong-strong or weak-strong acid/base pairs. A standalone [web application](https://aniketchitre-accelerate-titrations-titrationalgo-webapp-z383g2.streamlit.app) is also linked if you wish to use the hybrid ML algorithm to accelerate bench top pH adjustments, without additionally adopting the robotic technology. 
 
@@ -69,5 +69,5 @@ Submit an issue or email [Aniket Chitre](ac2349@cam.ac.uk) for any software-rela
 
 If you find this project useful, we encourage you to: 
 * Star this repository &#11088;
-* Cite our paper (https://doi.org/10.26434/chemrxiv-2023-c46mv)
+* Cite our paper (https://doi.org/10.1002/cmtd.202300043)
 
