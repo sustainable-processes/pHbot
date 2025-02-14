@@ -62,7 +62,7 @@ A separate web application (https://aniketchitre-accelerate-titrations-titration
 
 ## Issues 
 
-Submit an issue or email [Aniket Chitre](ac2349@cam.ac.uk) for any software-related issues (e.g., titration algorithm/web app, control of the pH robot) and [Jayce Cheng](jayce_cheng@imre.a-star.edu.sg) for any hardware related questions (e.g., assembly of the pH robot). 
+Submit an issue or email [Aniket Chitre](ac2349@cantab.ac.uk) for any software-related issues (e.g., titration algorithm/web app, control of the pH robot) and [Jayce Cheng](jayce_cheng@imre.a-star.edu.sg) for any hardware related questions (e.g., assembly of the pH robot). 
 
 
 ## Citing
